@@ -11,63 +11,109 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    name: Schemetical Sdn Bhd
+    url: "https://schemetical.com"
+    location: Remote
+    logo: /images/sections/experiences/Schemetical Logo.svg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Schemetical Sdn Bhd is a company focused on implementing ERP solutions to SME companies.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Senior Software Developer
+    start: Jun 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Building system foundation for the fintech platform
+    - Work closely with stackholder to design the application workflow
+    - Build custom web application
+    - ERP system implementation and customisation
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: Accendo Human Resource Solutions Sdn Bhd
+    url: "https://accendotechnologies.com/"
+    location: Kuala Lumpur, Malaysia
+    logo: /images/sections/experiences/Accendo Logo Horizontal.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: Accendo Human Resource Solutions Sdn Bhd provide cloud technology platform integrates with core HRMS solutions and allows organizations to understand their talent, identify talent.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Software Developer
+    start: March 2018
+    end: May 2020
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Find out the best way to enhance the existing system.
+    - Debugging and fixing bugs according to client or project manager feedbacks.
+    - Build efficient and reusable front-end systems for desktop and mobile.
+    - Collaborate with other team members to incorporate team innovations.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: Various client
+    url: ""
+    location: Nowhere
+    logo: 
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Working as freelance with various clients
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Freelance Developer
+    start: Feb 2018
+    end: Oct 2016
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Understanding client needs and translate into technical specs.
+    - Rapidly building a prototype to demonstrate the system to the client.
+    - Effectively communicate to other freelance developer to allocate task.
+    - Develop the system using variety of open source technologies like node.js, meteor.js, python Django, elixir Phoenix.
+
+- company:
+    name: IPSOS Sdn Bhd
+    url: "https://www.ipsos.com/en-my"
+    location: Kuala Lumpur, Malaysia
+    logo: /images/sections/experiences/Ipsos.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: Ipsos collects, processes, and delivers quantitative survey data in offline and online channels to serve the business needs of consumers, clients and employees, citizens, and doctors and patients in Europe, the Middle East, Africa, the Americas, and Asia-Pacific.
+  positions:
+  - designation: Survey Scriptwriter
+    start: Sep 2016
+    end: Jan 2015
+    responsibilities:
+    - Manage and support international project implementations while ensuring timely completion of projects in line with business and customer needs.
+    - Manage and support project implementations based on the requirements while always using the appropriate methods or frameworks and keeping any cross-project dependencies in mind.
+    - Building online survey using IBM SPSS Dimension, and using javascript/html/css to customise the look and feel of the page.
+
+- company:
+    name: Inceptio Technologies Sdn Bhd
+    url: "https://corematter.biz/about-us/"
+    location: Kuala Lumpur, Malaysia
+    logo: /images/sections/experiences/CoreMatter Logo.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: The CoreMatter team has spent over 25 years providing legal software solutions and services to law firms across Southeast Asia
+  positions:
+  - designation: Software Developer
+    start: Dec 2014
+    end: Jun 2012
+    responsibilities:
+    - Custom developed applications and services to clients, focusing on the development & deployment of Business Application.
+    - Develop document management system using Microsoft Cloud Services.
+    - Follow agile methodologies for project management.
+    - Fixing bug due to response of client.
+
+- company:
+    name: Chiyoda Software Laboratory Sdn Bhd
+    url: "http://www.cssnet.co.jp/csl/"
+    location: Petaling Jaya, Malaysia
+    logo: /images/sections/experiences/CSL Logo.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: CSL Global Solutions (M) Sdn. Bhd., known as Creative Sustainable Lead, has been a pioneer in consultancy and system development, specializing in driving innovative and sustainable IT solutions for over 26 years.
+  positions:
+  - designation: Programmer
+    start: May 2011
+    end: May 2012
+    responsibilities:
+    - Participate the activities in software development, which include programming, testing and documentation.
+    - Discuss system requirement with team member and build the system as well as bug fixing to meet client requirement.
