@@ -15,6 +15,14 @@ buttons:
   filter: "all"
 - name: Basic
   filter: "basic"
+- name: Frontend
+  filter: "frontend"
+- name: Backend
+  filter: "backend"
+- name: Database
+  filter: "database"
+- name: Framework
+  filter: "framework"
 - name: Language
   filter: "language"
 - name: Container
@@ -25,17 +33,59 @@ buttons:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: .Net Core Development
-  logo: /images/sections/skills/Net Core GitHub Image.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+- name: .Net C#
+  logo: /images/sections/skills/Csharp Logo Icon.png
+  summary: "Using as the main language for professional development."
   categories: ["basic", "language"]
   url: "https://dotnet.microsoft.com/en-us/download"
+
+- name: Python
+  logo: /images/sections/skills/Transparent Python Programming Image.webp
+  summary: "a high-level, general-purpose programming language"
+  categories: ["basic", "language"]
+  url: "https://react.dev/"
 
 - name: Typescript
   logo: /images/sections/skills/Typescript Logo.png
   summary: "Used for UI development language"
   categories: ["basic", "language"]
   url: "https://www.typescriptlang.org/"
+
+- name: Vue.js
+  logo: /images/sections/skills/Transparent Vue.js.png
+  summary: "Framework used for building web user interfaces"
+  categories: ["frontend", "framework"]
+  url: "https://vuejs.org/"
+
+- name: React.js
+  logo: /images/sections/skills/React JS Logo Thumbnail.png
+  summary: "library for web and native user interfaces"
+  categories: ["frontend", "framework"]
+  url: "https://react.dev/"
+
+- name: .Net Core
+  logo: /images/sections/skills/Net Core GitHub Image.png
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  categories: ["backend", "framework"]
+  url: "https://dotnet.microsoft.com/en-us/download"
+
+- name: Frappe
+  logo: /images/sections/skills/Transparent Frappe Python.png
+  summary: "A full stack, batteries-included, web framework written in Python and Javascript"
+  categories: ["backend", "framework"]
+  url: "https://frappe.io/"
+
+- name: PostgreSQL
+  logo: /images/sections/skills/Transparent Postgres Image.jpeg
+  summary: "free and open-source relational database management system emphasizing extensibility and SQL compliance"
+  categories: ["database"]
+  url: "https://frappe.io/"
+
+- name: Mongo DB
+  logo: /images/sections/skills/MongoDB Logo Thumbnail.png
+  summary: "source-available, cross-platform, document-oriented database program"
+  categories: ["database"]
+  url: "https://frappe.io/"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
